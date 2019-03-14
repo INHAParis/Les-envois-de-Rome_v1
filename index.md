@@ -3,6 +3,7 @@
 ### Les données
 
 blab blab bla
+[Accéder aux données](./datasets/datasets.md)
   ```
    > [Accéder aux données](./datasets/datasets.md).
   ```
@@ -10,6 +11,8 @@ blab blab bla
 ### Les tutoriels
 
 blab blab bla
+[Accéder aux tutoriels](./tutorials/tutorials.md).
+
   ```
   > [Accéder aux tutoriels](./tutorials/tutorials.md).
   ```
