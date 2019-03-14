@@ -20,7 +20,4 @@ blab blab bla
 ### Exemples de réutilisations
 
 blab blab bla
-
-    ```
-    Voir les tutoriels
-    ```
+[Accéder aux réutilisations](./visualisations/visualisation_1.md).
