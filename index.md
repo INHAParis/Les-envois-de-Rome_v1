@@ -23,4 +23,5 @@ Vous trouverez sur cette page, des tutoriels afin de manipuler et de visualiser 
 ### Exemples de réutilisations
 
 Vous trouverez sur cette page quelques exemples de visualisations réalisées à partir des données de la base des Envois de Rome
+
 [Accéder aux réutilisations](./visualisations/visualisation_1.md).
