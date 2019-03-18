@@ -9,7 +9,7 @@ blab blab bla
   ```
 
   <video controls="controls" height="322" width="700">
-  			<source src="video/test.webm" type="video/mov"> Ici l&#39;alternative &agrave; la vid&eacute;o : un lien de t&eacute;l&eacute;chargement, un message, etc. </source></video> 
+  			<source src="videos/test.webm" type="video/mov"> Ici l&#39;alternative &agrave; la vid&eacute;o : un lien de t&eacute;l&eacute;chargement, un message, etc. </source></video> 
 
 
 
