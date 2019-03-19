@@ -4,7 +4,7 @@ La base publié sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">A
 
 ## Contenu de ce mini-site
 
-Pour rendre compte de la recherche actuel autour des Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>. 
+Pour rendre compte de la recherche actuel autour des Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>.
 
 Dans ce cadre, et afin de valoriser le contenu de la base de données, et en plus de pouvoir accéder à la consultation de la base, nous rendons ici accessible, un **ensemble de ressources (jeux de données *brute*, des jeux de données pré-traités, des tutoriels, des exemples de visualisations etc.)** librement téléchargeable.
 
@@ -24,14 +24,14 @@ Vous trouverez sur cette page, des tutoriels afin de manipuler et de visualiser 
 
 Vous trouverez sur cette page quelques exemples de visualisations réalisées à partir des données de la base des Envois de Rome
 
-[Accéder aux réutilisations](./visualisations/visualisation_1.md).
+[Accéder aux réutilisations](./visualisations/visualisations.md).
 
 
 ### Licence
-L'ensemble des données mises à disposition  ainsi que les différentes viusalisations et tutoriels sont placées sous [licence Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr). 
+L'ensemble des données mises à disposition  ainsi que les différentes viusalisations et tutoriels sont placées sous [licence Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 Dans ce cadre, l’utilisateur est autorisé :
-* à reproduire et à rediffuser ces données, sous réserve de conserver la mention exacte de la source : 
+* à reproduire et à rediffuser ces données, sous réserve de conserver la mention exacte de la source :
 * à retraiter, à inclure ou à exploiter ces contenus et données, sous réserve de ne pas en dénaturer le sens ni l’exactitude et de ne pas induire en erreur des tiers quant au contenu ou à la source de ces informations ;
 pour le monde entier et sans limitation de durée ;
 * à des fins commerciales ou non.
