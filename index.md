@@ -25,3 +25,13 @@ Vous trouverez sur cette page, des tutoriels afin de manipuler et de visualiser 
 Vous trouverez sur cette page quelques exemples de visualisations réalisées à partir des données de la base des Envois de Rome
 
 [Accéder aux réutilisations](./visualisations/visualisation_1.md).
+
+
+### Licence
+L'ensemble des données mises à disposition  ainsi que les différentes viusalisations et tutoriels sont placées sous [licence Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr). 
+
+Dans ce cadre, l’utilisateur est autorisé :
+* à reproduire et à rediffuser ces données, sous réserve de conserver la mention exacte de la source : 
+* à retraiter, à inclure ou à exploiter ces contenus et données, sous réserve de ne pas en dénaturer le sens ni l’exactitude et de ne pas induire en erreur des tiers quant au contenu ou à la source de ces informations ;
+pour le monde entier et sans limitation de durée ;
+* à des fins commerciales ou non.
