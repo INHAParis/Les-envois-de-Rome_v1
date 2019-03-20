@@ -8,3 +8,5 @@ author:
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA" 
+
+theme: jekyll-theme-minimal
