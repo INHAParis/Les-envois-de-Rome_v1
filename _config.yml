@@ -1,4 +1,10 @@
 remote_theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 title: [Les Envois de Rome]
 description: ["Accéder aux données et visualisations pour le colloque « Académisme et formation artistique au XIXe siècle : les envois de Rome en question»"]
 show_downloads: ["true"]
+author:
+  name     : "Your Name"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA" 
