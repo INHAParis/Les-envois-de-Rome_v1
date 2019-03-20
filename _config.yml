@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 title: [Les Envois de Rome]
 description: ["Accéder aux données et visualisations pour le colloque « Académisme et formation artistique au XIXe siècle : les envois de Rome en question»"]
 show_downloads: ["true"]
