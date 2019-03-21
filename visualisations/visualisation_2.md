@@ -17,7 +17,6 @@ Voyant Tools est un environnement d’analyse, de lecture et de visualisation de
 
 Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription dont voici la composition avec en précision l'auteur du rapport : 
 
-<div class="flourish-embed" data-src="visualisation/259562"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 #### Les premiers réusltats 
 Le jeux de données initial est à télécharger ici (avec explication de la structure)
