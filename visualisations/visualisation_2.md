@@ -15,19 +15,9 @@ Voyant Tools est un environnement d’analyse, de lecture et de visualisation de
 
 #### Rappel du corpus
 
-Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription dont voici la composition : 
-* **167** état d'avancement des envois	
-* **136** rapport Institut primitif
-* **100** rapport Institut procès-verbal
-* **52** rapport Institut à AFR
-* **12** rapport EBA procès-verbal
-* **9** rapport EBA à AFR
-* **8** rapport EBA primitif
+Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription dont voici la composition avec en précision l'auteur du rapport : 
 
-
-
-rapport Institut séance publique annuelle	37
-
+<div class="flourish-embed" data-src="visualisation/259562"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 #### Les premiers réusltats 
 Le jeux de données initial est à télécharger ici (avec explication de la structure)
