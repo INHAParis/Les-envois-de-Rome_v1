@@ -26,6 +26,23 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
 
 [Accéder aux réutilisations](./visualisations/visualisations.md).
 
+### Quelques ressources
+
+* [Intervention "Introduction à la visualisation de données" de 2016](https://fr.slideshare.net/antoinecourtin/brve-introduction-la-visualisation-de-donnes-en-shs)
+* [Manuel en ligne avec des rappels historiques, des exemples, etc.](https://datavizforall.org/)
+* pour vous aider à trouver la forme de visualisation la plus adaptée (en fonction des outils, de vos données, de vos questions, etc;)
+  * [datavizproject](http://datavizproject.com) 
+  * [chartmaker](chartmaker.visualisingdata.com)
+* des outils en ligne pour visualiser/explorer des corpus de données
+  * [Palladio](http://palladio.designhumanities.org)
+  * [Flourish](https://app.flourish.studio/templates)
+  * [rawgraph](http://app.rawgraphs.io)
+  * [uMap](https://umap.openstreetmap.fr/fr/)
+* des outils de préparation et de manipulation de données :
+  * [OpenRefine](http://openrefine.org/)
+  * [workbench](http://workbenchdata.com/)
+  
+
 
 ### Licence
 L'ensemble des données mises à disposition  ainsi que les différentes viusalisations et tutoriels sont placées sous [licence Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
