@@ -6,7 +6,7 @@ La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">
 
 Pour rendre compte de la recherche actuel autour des Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>.
 
-Dans ce cadre, et afin de valoriser le contenu de la base de données, et en plus de pouvoir accéder à la consultation de la base, nous rendons ici accessible, un **ensemble de ressources (jeux de données *brute*, des jeux de données pré-traités, des tutoriels, des exemples de visualisations etc.)** librement téléchargeable.
+Dans ce cadre, et afin de valoriser le contenu de la base de données, et en plus de pouvoir accéder à la consultation de la base, nous rendons ici accessible, un **ensemble de ressources (jeux de donnée, des jeux de données pré-traités, des tutoriels, des exemples de visualisations etc.)** librement téléchargeable.
 
 ### Les données
 
