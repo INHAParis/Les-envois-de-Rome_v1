@@ -7,7 +7,13 @@ L'objectif est ici d'utiliser les rapports transcrits comme un matérieux de rec
 
 > warning n°2 : l'outil utilisé a des limites mais permet d'appréhender certains enjeux liés à ces pratiques empruntant notamment à des discipline avec le traitement automatique des langues.
 
+#### A propos de Voyant Tools
+Voyant Tools est un environnement d’analyse, de lecture et de visualisation de textes numériques. 
+2 ressources indispensables avant de s'y plonger :
+* [le tutoriel d'Aurelien Berra](https://github.com/aurelberra/voyant_tools/blob/master/tutorial/voyant_tools_intro_fr.md) qui revient également sur la génèse et les objectifs de Voyant Tools
+* [la documentation officielle de l'outil] (http://voyant.tools.huma-num.fr/docs/#!/guide/start)
 
+#### Les premiers réusltats 
 Le jeux de données initial est à télécharger ici (avec explication de la structure)
 
 Quelques premiers résultats restant bien sur à approfondir :
