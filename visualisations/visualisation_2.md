@@ -13,6 +13,22 @@ Voyant Tools est un environnement d’analyse, de lecture et de visualisation de
 * [le tutoriel d'Aurelien Berra](https://github.com/aurelberra/voyant_tools/blob/master/tutorial/voyant_tools_intro_fr.md) qui revient également sur la génèse et les objectifs de Voyant Tools
 * [la documentation officielle de l'outil](http://voyant.tools.huma-num.fr/docs/#!/guide/start)
 
+#### Rappel du corpus
+
+Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription. 
+*état d'avancement des envois	167
+*rapport Institut primitif	136
+*rapport Institut procès-verbal	100
+*rapport Institut à AFR	52
+*rapport EBA procès-verbal	12
+*rapport EBA à AFR	9
+*rapport EBA primitif	8
+
+
+
+rapport Institut séance publique annuelle	37
+
+
 #### Les premiers réusltats 
 Le jeux de données initial est à télécharger ici (avec explication de la structure)
 
