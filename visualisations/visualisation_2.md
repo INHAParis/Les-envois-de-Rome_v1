@@ -15,14 +15,14 @@ Voyant Tools est un environnement d’analyse, de lecture et de visualisation de
 
 #### Rappel du corpus
 
-Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription. 
-*état d'avancement des envois	167
-*rapport Institut primitif	136
-*rapport Institut procès-verbal	100
-*rapport Institut à AFR	52
-*rapport EBA procès-verbal	12
-*rapport EBA à AFR	9
-*rapport EBA primitif	8
+Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription dont voici la composition : 
+* état d'avancement des envois	167
+* rapport Institut primitif	136
+* rapport Institut procès-verbal	100
+* rapport Institut à AFR	52
+* rapport EBA procès-verbal	12
+* rapport EBA à AFR	9
+* rapport EBA primitif	8
 
 
 
