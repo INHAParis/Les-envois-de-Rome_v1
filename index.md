@@ -38,7 +38,8 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
   * [Flourish](https://app.flourish.studio/templates)
   * [rawgraph](http://app.rawgraphs.io)
   * [uMap](https://umap.openstreetmap.fr/fr/)
-* des outils de préparation et de manipulation de données :
+* des outils de validation, de préparation, de manipulation de données :
+  * [Breve](http://hdlab.stanford.edu/breve/)
   * [OpenRefine](http://openrefine.org/)
   * [workbench](http://workbenchdata.com/)
   
