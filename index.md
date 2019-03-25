@@ -10,7 +10,7 @@ Dans ce cadre, et afin de valoriser le contenu de la base de données, et en plu
 
 L'INHA, par cette mise en ligne sous différentes formes, souhaite également expérimenter la réutilisation des données en histoire de l'art en proposant à ceux qui le souhaitent un accompagnement personnalisé afin d'aider les soumissionnaires à construire et à formaliser leurs questions à partir des jeux de données.
 
-> Pour toutes questions, n'hésitez pas à nous contacter à l'adresse suivante : envoisderome@inha.fr
+> Pour toutes questions, n'hésitez pas à nous contacter à l'adresse suivante : **envoisderome@inha.fr**
 
 ### Les données
 
