@@ -1,15 +1,4 @@
-## Contenu de la base
-## Contenu de ce mini-site
-### Les données
+### tutoriels
+#### Comment utiliser Palladio pour explorer le corpus des Envois de Rome
 
-  ```
-  Accéder aux données >
-  ```
-
-  ![](./images/palladio_etape1.gif)
-
-### Les tutoriels
-
-  ```
-  Voir les tutoriels
-  ```
+![](./images/palladio_etape1.gif)
