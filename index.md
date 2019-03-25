@@ -8,6 +8,10 @@ Pour rendre compte de la recherche actuel autour des Envois de Rome, un appel à
 
 Dans ce cadre, et afin de valoriser le contenu de la base de données, et en plus de pouvoir accéder à la consultation de la base, nous rendons ici accessible, un **ensemble de ressources (jeux de donnée, des jeux de données pré-traités, des tutoriels, des exemples de visualisations etc.)** librement téléchargeable.
 
+L'INHA, par cette mise en ligne sous différentes formes, souhaite également expérimenter la réutilisation des données en histoire de l'art en proposant à ceux qui le souhaitent un accompagnement personnalisé afin d'aider les soumissionnaires à construire et à formaliser leurs questions à partir des jeux de données.
+
+> Pour toutes questions, n'hésitez pas à nous contacter à l'adresse suivante : envoisderome@inha.fr
+
 ### Les données
 
 Vous trouverez sur cette page différents jeux de données (oeuvres, artistes, etc.) issus de la base de données sous AGORHA, sous différents formats.
