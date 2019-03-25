@@ -6,6 +6,8 @@
   Accéder aux données >
   ```
 
+  ![](./images/palladio_etape1.gif)
+
 ### Les tutoriels
 
   ```
