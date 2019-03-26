@@ -30,26 +30,26 @@ Une fois les données importées,vous entrez dans l'interface et le menu en haut
 
 #### Les 4 formes d'exploration
 
-1. La carte
+##### La carte
 
 L'accès par carte  permet de visualiser la répartition des Envois de Rome selon leurs lieux de conservation actuelles
 ![img_1](../images/Palladio_05.png)
 
-2. Le graphe
+##### Le graphe
 
 Le graphe permet de choisir deux variables ("Source" et  "Target") et de visualiser les relations qu'elles entretiennent. Avec l’option « Size nodes », vous pouvez obtenir des tailles de noeuds proportionnels au nombre d’objets qu’ils représentent.
 Ci-dessous, nous avons choisis la colonne "AUTEUR" et la colonne "COPIER_dAPRES", et après avoir filtrer sur les, on peut visualiser la réponse à la question suivante : quel(s) sont les auteurs qui ont copié à la fois Michel-Ange et Pinturicchio ? On voit ainsi tout de suite apparâitre qu'il n'ya qu'un seul artiste à savoir Antoine Larée.
 
 ![img_1](../images/Palladio_02.png)
 
-3. Le tableau croisé
+##### Le tableau croisé
 
 Le tableau croisé (dans le menu TABLE) permet, après avoir choisi une variable dans les données, d'avoir une concaténation des différentes champs de votre choix.
 Par exemple, si vous choisisez comme premièer variable "AUTEUR" et comme dimensions d'analyse, les champs "DATE" ou encore "TYPE_OEUVRES", vous obtiendrez le résultat suivant :
 
 ![img_1](../images/Palladio_08.png)
 
-4. La grille d'image
+##### La grille d'image
 
 Ce dernier mode d'exploration est le plus visuel. Il vous permet de construire avec les informations de votre choix, une galerie de cartels.
 ![img_1](../images/Palladio_04.png)
