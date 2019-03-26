@@ -28,23 +28,23 @@ Pour la seconde, méthode, un petit *gif* pour plus d'information
 
 1. La carte
 
-![img_1](../images/alladio_05.png)
+![img_1](../images/Palladio_05.png)
 
 2. Le graphe
 
-![img_1](../images/alladio_02.png)
+![img_1](../images/Palladio_02.png)
 
 3. Le tableau croisé
 
 
-![img_1](../images/alladio_03.png)
+![img_1](../images/Palladio_03.png)
 
 4. La grille d'image
 
-![img_1](../images/alladio_04.png)
+![img_1](../images/Palladio_04.png)
 
 #### Les filtres
 
 
-![img_1](../images/alladio_06.png)
-![img_1](../images/alladio_07.png)
+![img_1](../images/Palladio_06.png)
+![img_1](../images/Palladio_07.png)
