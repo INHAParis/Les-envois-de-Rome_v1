@@ -2,36 +2,36 @@
 
 La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">AGORHA</a> recense les travaux envoyés chaque année à Paris par les élèves de l’Académie de France à Rome, peintres et sculpteurs, pour la période 1804-1914. Ils sont mis en relation avec les transcriptions des rapports institutionnels (correspondance, procès-verbaux de l’Académie…), permettant de faire émerger des critères de jugement sur ces œuvres.
 
-> Pour consulter la base sur AGORHA, [n"hésitez pas à lire le guide d'utilisation](./Guide_utilisation_EnvoisdeRome.pdf) avec les "trucs et astuces" utile pour une utilisation experte 
+> Pour consulter la base sur AGORHA, [n"hésitez pas à lire le guide d'utilisation](./Guide_utilisation_EnvoisdeRome.pdf) avec les "trucs et astuces" utiles pour une utilisation experte 
 
 
 ## Contenu de ce répertoire
 
 Pour rendre compte de la recherche actuelle sur les Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>.
 
-Dans ce cadre, afin de valoriser le contenu de la base de données et de pouvoir accéder à la consultation de la base, nous rendons ici accessible un **ensemble de ressources (jeux de donnée, des jeux de données pré-traités, des tutoriels, des exemples de visualisations , etc.)** librement téléchargeable.
+Dans ce cadre, afin de valoriser le contenu de la base de données et de pouvoir accéder à la consultation de la base, nous rendons ici accessible un **ensemble de ressources (des jeux de données pré-traités, des tutoriels, des exemples de visualisations , etc.)** librement téléchargeable.
 
 ![img_1](./images/accueil.png)
 
-L'INHA, par cette mise en ligne sous différentes formes, souhaite également expérimenter la réutilisation des données en histoire de l'art en proposant à ceux qui le souhaitent un accompagnement personnalisé afin d'aider les soumissionnaires à construire et à formaliser leurs questions à partir des jeux de données.
+L'INHA, par cette mise en ligne sous différentes formes, souhaite également expérimenter la réutilisation des données en histoire de l'art en proposant à ceux qui le souhaitent un accompagnement personnalisé, afin d'aider les soumissionnaires à construire et à formaliser leurs questions à partir des jeux de données.
 
-> Pour toutes questions, n'hésitez pas à nous contacter à l'adresse suivante : **envoisderome@inha.fr**
+> Pour toute question, n'hésitez pas à nous contacter à l'adresse suivante : **envoisderome@inha.fr**
 
 ### Les données
 
-Vous trouverez sur cette page différents jeux de données (oeuvres, artistes, etc.) issus de la base de données sous AGORHA, sous différents formats.
+Vous trouverez sur cette page différents jeux de données (œuvres, artistes, etc.) issus de la base de données sous AGORHA, sous différents formats.
 
 [Accéder aux données](./datasets/datasets.md)
 
 ### Les tutoriels
 
-Vous trouverez sur cette page, des tutoriels afin de manipuler et de visualiser les jeux de données
+Vous trouverez sur cette page, des tutoriels afin de manipuler et de visualiser les jeux de données.
 
 [Accéder aux tutoriels](./tutorials/tutorials.md).
 
 ### Exemples de réutilisations
 
-Vous trouverez sur cette page quelques exemples de visualisations réalisées à partir des données de la base des Envois de Rome
+Vous trouverez sur cette page quelques exemples de visualisations réalisées à partir des données de la base des Envois de Rome.
 
 [Accéder aux réutilisations](./visualisations/visualisations.md).
 
