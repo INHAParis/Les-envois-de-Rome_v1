@@ -1,4 +1,4 @@
-## Visualisation n°1
+## Visualisation n°2
 ### Prémices d'analyse textuelle à partir des rapports entourant les Envois de Rome
 
 L'objectif est ici d'utiliser les rapports transcrits comme un matérieux de recherche en lui-même et d'utiliser [**Voyant Tools**](http://voyant.tools.huma-num.fr) service web pour faciliter l'exploration de ce corpus en s'appuyant sur les logiques issue de la textométrie.
