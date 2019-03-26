@@ -2,7 +2,7 @@
 
 La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">AGORHA</a> recense les travaux envoyés chaque année à Paris par les élèves de l’Académie de France à Rome, peintres et sculpteurs, pour la période 1804-1914. Ils sont mis en relation avec les transcriptions des rapports institutionnels (correspondance, procès-verbaux de l’Académie…), permettant de faire émerger des critères de jugement sur ces œuvres.
 
-![img_1](../images/accueil.png)
+![img_1](./images/accueil.png)
 
 ## Contenu de ce mini-site
 
