@@ -6,6 +6,7 @@ L'objectif de cette section est de présenter quelques idées d'exploitation des
 * Corpus des œuvres. Copies dessinées, peintes ou sculptées : [Qui a copié qui ?](./visualisation_1.md)
 * Corpus des textes. [Analyse textuelle à partir des rapports entourant les Envois de Rome](./visualisation_2.md)
 * Corpus des artistes. [Cartographie des lieux de naissance des pensionnaires](./visualisation_3.md)
+* Corpus des artistes. [Qui a pu connaitre qui lorsqu'il éait pensionnaire](./visualisation_4.md)
 
 ## D'autres idées à explorer 
 
