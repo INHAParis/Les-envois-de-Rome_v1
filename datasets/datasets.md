@@ -10,6 +10,8 @@ Vous trouverez sur cette pages :
 
 ### Les corpus "prêt à l'emploi"
 
+Il s'agit des des fichiers retravaillés et "prêt à l'emploi" des 3 corpus mentionnés (extraction des années, ajouts des informations de géolocalisation, simplication des colonnes, etc.). ils comportent tous, un lien vers la notice détaillée et complète dans AGORHA.
+
 | id        | Description                                                                                                 | date_extraction |     Type AGORHA     |      format      | nom du fichier - Télécharger                                                                                                                                                                                                                                                                      |     Volumétrie    |
 |-----------|-------------------------------------------------------------------------------------------------------------|-----------------|:-------------------:|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
 | dataset_1 | Ensemble de toutes les notices des oeuvres publiées (sculptures (1804-1914) et des peintures (1863-1914))   | 20190325        |       oeuvres       | CSV, EXCEL, JSON | [Export_EnvoisdeRome_oeuvres_20190325.csv](./Export_EnvoisdeRome_oeuvres_20190325.csv) [Export_EnvoisdeRome_oeuvres_20190325.xlsx](./Export_EnvoisdeRome_oeuvres_20190325.xlsx)  [Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json](./Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json) |    1100 oeuvres   |
@@ -20,6 +22,7 @@ Vous trouverez sur cette pages :
 
 ### Les corpus "bruts"
 
+Il s'agit de l'export brut de tous les champs de la base de données d'AGORHA, sans nettoyante, simplification ou enrichissement
 
 
 ### La documentation précise des fichiers mis en téléchargement
