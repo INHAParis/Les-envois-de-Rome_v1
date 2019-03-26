@@ -1,4 +1,4 @@
-## tutoriels
+## Tuto
 ### Comment utiliser Palladio pour explorer le corpus des Envois de Rome
 
 #### Objectifs
@@ -51,9 +51,24 @@ Par exemple, si vous choisisez comme premièer variable "AUTEUR" et comme dimens
 
 4. La grille d'image
 
+Ce dernier mode d'exploration est le plus visuel. Il vous permet de construire avec les informations de votre choix, une galerie de cartels. 
 ![img_1](../images/Palladio_04.png)
 
+Pour construire ces cartesl, il suffit de paramétrer et de choisir les champs que vous souhaitez voir apparaître. Attention, pour les illustrations vous devez utilisez la colone URL_IMAGE tandis que pour le champ "LINK3 qui permet, au cliq sur la cartel d'être renvoyé à la notice complète d'AGORHA, il faut choisir "URL_AGORHA".
+
+![](../images/palladio_etape3.gif)
+
 #### Les filtres
+
+La grande force de Palladio réside principalement dans l'utilisation de filtres dynamiques qui vont interragir avec les informations visualisées selon les 4 modes d'explorations vu ci-dessus.
+
+3 type de filtres existent :
+
+* [Facet] : permet d'afficher les valeurs de vos différentes variables et de construire des filtres multiples. Exemple : on va pouvoir sélectionner uniquement les sculptures qui sont des envois de 2ème année et qui ont été copié d'après un antique
+![img_1](../images/Palladio_09.png)
+
+* [Timeline] : 
+* [Timespan] : 
 
 
 ![img_1](../images/Palladio_06.png)
