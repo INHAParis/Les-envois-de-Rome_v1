@@ -2,6 +2,8 @@
 
 La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">AGORHA</a> recense les travaux envoyés chaque année à Paris par les élèves de l’Académie de France à Rome, peintres et sculpteurs, pour la période 1804-1914. Ils sont mis en relation avec les transcriptions des rapports institutionnels (correspondance, procès-verbaux de l’Académie…), permettant de faire émerger des critères de jugement sur ces œuvres.
 
+![img_1](../images/accueil.png)
+
 ## Contenu de ce mini-site
 
 Pour rendre compte de la recherche actuelle sur les Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>.
@@ -35,7 +37,7 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
 * [Intervention "Introduction à la visualisation de données" de 2016](https://fr.slideshare.net/antoinecourtin/brve-introduction-la-visualisation-de-donnes-en-shs)
 * [Manuel en ligne avec des rappels historiques, des exemples, etc.](https://datavizforall.org/)
 * pour vous aider à trouver la forme de visualisation la plus adaptée (en fonction des outils, de vos données, de vos questions, etc.)
-  * [datavizproject](http://datavizproject.com) 
+  * [datavizproject](http://datavizproject.com)
   * [chartmaker](chartmaker.visualisingdata.com)
 * des outils en ligne pour visualiser/explorer des corpus de données
   * [Palladio](http://palladio.designhumanities.org)
@@ -47,7 +49,7 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
   * [Breve](http://hdlab.stanford.edu/breve/)
   * [OpenRefine](http://openrefine.org/)
   * [workbench](http://workbenchdata.com/)
-  
+
 
 
 ### Licence
