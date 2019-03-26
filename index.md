@@ -5,7 +5,7 @@ La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">
 > Pour consulter la base sur AGORHA, [n"hésitez pas à lire le guide d'utilisation](./Guide_utilisation_EnvoisdeRome.pdf) avec les "trucs et astuces" utile pour une utilisation experte 
 
 
-## Contenu de ce mini-site
+## Contenu de ce répertoire
 
 Pour rendre compte de la recherche actuelle sur les Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>.
 
