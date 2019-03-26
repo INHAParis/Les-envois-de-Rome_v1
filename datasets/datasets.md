@@ -1,32 +1,31 @@
 
 ## Les jeux de données
 
-A partir de la base de données des Envois de Rome, plusieurs corpus ont été créés. 
+À partir de la base de données des Envois de Rome, plusieurs corpus ont été créés. 
 
-Vous trouverez sur cette pages :
-* les extractions "brutes" de la base de données pour les tables suivantes : oeuvres, personnes, mentions d'archives
-* des fichiers retravaillés et "prêt à l'emploi" des 3 corpus mentionnés (extraction des années, ajouts des informations de géolocalisation, simplication des colonnes, etc.)
+Vous trouverez sur cette page :
+* les extractions *brutes* de la base de données pour les tables suivantes : œuvres, personnes, mentions d'archives
+* des fichiers retravaillés et *prêts à l'emploi* des 3 corpus mentionnés (extraction des années, ajouts des informations de géolocalisation, simplification des colonnes, etc.)
 * des explications détaillées pour chacun de ces corpus
 
-### Les corpus "prêt à l'emploi"
+### Les corpus *prêts à l'emploi*
 
-Il s'agit des des fichiers retravaillés et "prêt à l'emploi" des 3 corpus mentionnés (extraction des années, ajouts des informations de géolocalisation, simplication des colonnes, etc.). ils comportent tous, un lien vers la notice détaillée et complète dans AGORHA.
 
 | id        | Description                                                                                                 | date_extraction |     Type AGORHA     |      format      | nom du fichier - Télécharger                                                                                                                                                                                                                                                                      |     Volumétrie    |
 |-----------|-------------------------------------------------------------------------------------------------------------|-----------------|:-------------------:|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
-| dataset_1 | Ensemble de toutes les notices des oeuvres publiées (sculptures (1804-1914) et des peintures (1863-1914))   | 20190325        |       oeuvres       | CSV, EXCEL, JSON | [Export_EnvoisdeRome_oeuvres_20190325.csv](./Export_EnvoisdeRome_oeuvres_20190325.csv) [Export_EnvoisdeRome_oeuvres_20190325.xlsx](./Export_EnvoisdeRome_oeuvres_20190325.xlsx)  [Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json](./Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json) |    1100 oeuvres   |
+| dataset_1 | Ensemble de toutes les notices des œuvres publiées (sculptures (1804-1914) et des peintures (1863-1914))   | 20190325        |       oeuvres       | CSV, EXCEL, JSON | [Export_EnvoisdeRome_oeuvres_20190325.csv](./Export_EnvoisdeRome_oeuvres_20190325.csv) [Export_EnvoisdeRome_oeuvres_20190325.xlsx](./Export_EnvoisdeRome_oeuvres_20190325.xlsx)  [Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json](./Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json) |    1100 oeuvres   |
 | dataset_2 | Ensemble de toutes les notices mentions d'archives publiées                                                 | 20190325        | mentions d'archives |  CSV, EXCEL, TXT | [Export_EnvoisdeRome_Rapports_20190325.csv](./Export_EnvoisdeRome_Rapports_20190325) [Export_EnvoisdeRome_Rapports_20190325.xlsx](./Export_EnvoisdeRome_Rapports_20190325) [Export_EnvoisdeRome_Rapports_20190325.zip](./Export_EnvoisdeRome_Rapports_20190325)                                   |    599 rapports   |
 | dataset_3 | Ensemble de toutes les notices Personnes publiées                                                           | 20190325        |      Personnes      |        CSV       | [Export_EnvoisdeRome_ToutesPersonnes_20190325.csv](./Export_EnvoisdeRome_ToutesPersonnes_20190325.csv)                                                                                                                                                                                            |   378 personnes   |
-| dataset_4 | Ensemble de toutes les notices de Pensionnaires (présent à Rome entre 1804 et 1914) publiées                | 20190325        |       Personne      |        CSV       | [Export_EnvoisdeRome_Pensionnaires_20190325.csv](./Export_EnvoisdeRome_Pensionnaires_20190325.csv)                                                                                                                                                                                                | 246 pensionnaires |
+| dataset_4 | Ensemble de toutes les notices de Pensionnaires (présents à Rome entre 1804 et 1914) publiées                | 20190325        |       Personne      |        CSV       | [Export_EnvoisdeRome_Pensionnaires_20190325.csv](./Export_EnvoisdeRome_Pensionnaires_20190325.csv)                                                                                                                                                                                                | 246 pensionnaires |
 
 
 ### Les corpus "bruts"
 
-Il s'agit de l'export brut de tous les champs de la base de données d'AGORHA, sans nettoyante, simplification ou enrichissement
+Il s'agit de l'export brut de tous les champs de la base de données d'AGORHA, sans nettoyage ni simplification ou enrichissement.
 
 | id        | Description                                                                                               | date_extraction |     Type AGORHA     | format | nom du fichier - Télécharger                                                                                     |   Volumétrie  |
 |-----------|-----------------------------------------------------------------------------------------------------------|-----------------|:-------------------:|:------:|------------------------------------------------------------------------------------------------------------------|:-------------:|
-| dataset_5 | Ensemble de toutes les notices des oeuvres publiées (sculptures (1804-1914) et des peintures (1863-1914)) | 20190325        |       oeuvres       |   CSV  | [Exports_EnvoisdeRome_oeuvres_Brut_20190325.csv](./Exports_EnvoisdeRome_oeuvres_Brut_20190325.csv)               |  1100 oeuvres |
+| dataset_5 | Ensemble de toutes les notices des œuvres publiées (sculptures (1804-1914) et des peintures (1863-1914)) | 20190325        |       oeuvres       |   CSV  | [Exports_EnvoisdeRome_oeuvres_Brut_20190325.csv](./Exports_EnvoisdeRome_oeuvres_Brut_20190325.csv)               |  1100 oeuvres |
 | dataset_6 | Ensemble de toutes les notices mentions d'archives publiées                                               | 20190325        | mentions d'archives |   CSV  | [Export_EnvoisdeRome_Rapports_Brut_20190325.csv](./Export_EnvoisdeRome_Rapports_Brut_20190325.csv)               |  599 rapports |
 | dataset_7 | Ensemble de toutes les notices Personnes publiées                                                         | 20190325        |      Personnes      |   CSV  | [Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv](./Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv) | 378 personnes |
 
