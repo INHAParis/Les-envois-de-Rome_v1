@@ -44,8 +44,10 @@ Ci-dessous, nous avons choisis la colonne "AUTEUR" et la colonne "COPIER_dAPRES"
 
 3. Le tableau croisé
 
+Le tableau croisé (dans le menu TABLE) permet, après avoir choisi une variable dans les données, d'avoir une concaténation des différentes champs de votre choix.
+Par exemple, si vous choisisez comme premièer variable "AUTEUR" et comme dimensions d'analyse, les champs "DATE" ou encore "TYPE_OEUVRES", vous obtiendrez le résultat suivant : 
 
-![img_1](../images/Palladio_03.png)
+![img_1](../images/Palladio_08.png)
 
 4. La grille d'image
 
