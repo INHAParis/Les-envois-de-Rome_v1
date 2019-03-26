@@ -39,6 +39,7 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
   * [chartmaker](chartmaker.visualisingdata.com)
 * des outils en ligne pour visualiser/explorer des corpus de données
   * [Palladio](http://palladio.designhumanities.org)
+  * [Vistorian](https://networkcube.github.io/vistorian/)
   * [Flourish](https://app.flourish.studio/templates)
   * [rawgraph](http://app.rawgraphs.io)
   * [uMap](https://umap.openstreetmap.fr/fr/)
