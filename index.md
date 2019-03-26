@@ -43,11 +43,12 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
   * [datavizproject](http://datavizproject.com)
   * [chartmaker](chartmaker.visualisingdata.com)
 * des outils en ligne pour visualiser/explorer des corpus de données
-  * [Palladio](http://palladio.designhumanities.org)
-  * [Vistorian](https://networkcube.github.io/vistorian/)
-  * [Flourish](https://app.flourish.studio/templates)
-  * [rawgraph](http://app.rawgraphs.io)
-  * [uMap](https://umap.openstreetmap.fr/fr/)
+  * [Palladio](http://palladio.designhumanities.org) : Palladio. Visualize complex historical data with ease.
+  * [Vistorian](https://networkcube.github.io/vistorian/) : Interactive Visualizations for Dynamic and Multivariate Networks. 
+Online and Open Source.
+  * [Flourish](https://app.flourish.studio/templates) : Powerful, beautiful, easy data visualisation.
+  * [rawgraph](http://app.rawgraphs.io) : The missing link between spreadsheets and data visualization.
+  * [uMap](https://umap.openstreetmap.fr/fr/) : éditeur de cartes personnalisées
 * des outils de validation, de préparation, de manipulation de données :
   * [Breve](http://hdlab.stanford.edu/breve/)
   * [OpenRefine](http://openrefine.org/)
