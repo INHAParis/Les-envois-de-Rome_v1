@@ -3,6 +3,13 @@
 
 A partir de la base de données des Envois de Rome, plusieurs corpus ont été créés. 
 
+Vous trouverez sur cette pages :
+* les extractions "brutes" de la base de données pour les tables suivantes : oeuvres, personnes, mentions d'archives
+* des fichiers retravaillés et "prêt à l'emploi" des 3 corpus mentionnés (extraction des années, ajouts des informations de géolocalisation, simplication des colonnes, etc.)
+* des explications détaillées pour chacun de ces corpus
+
+### Les corpus "prêt à l'emploi"
+
 | id          | Description                                                                         | date_extraction |     Type AGORHA     |      format      | nom du fichier - Télécharger                                                                                                                                                                                                                                                                      |  Volumétrie  |
 |-------------|-------------------------------------------------------------------------------------|-----------------|:-------------------:|:----------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|
 | dataset_1_0 | Ensemble des Envois de Rome (sculptures (1804-1914) et des peintures (1863-1914))   | 20190325        |       oeuvres       | CSV, EXCEL, JSON | [Export_EnvoisdeRome_oeuvres_20190325.csv](./Export_EnvoisdeRome_oeuvres_20190325.csv) [Export_EnvoisdeRome_oeuvres_20190325.xlsx](./Export_EnvoisdeRome_oeuvres_20190325.xlsx)  [Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json](./Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json) | 1100 oeuvres |
@@ -12,7 +19,13 @@ A partir de la base de données des Envois de Rome, plusieurs corpus ont été c
 | dataset_7   |                                                                                     |                 |                     |                  |                                                                                                                                                                                                                                                                                                   |              |
 
 
-### dataset n°1 : le corpus des oeuvres
+### Les corpus "bruts"
+
+
+
+### La documentation précise des fichiers mis en téléchargement
+
+#### dataset n°1 : le corpus des oeuvres
 
 
 | Nom de colonne                          | Type    | Description                                                                                                                                 | Exemple                                                                                                                                                                                                                                                                                                                                              |
