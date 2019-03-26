@@ -3,7 +3,6 @@
 
 A partir de la base de données des Envois de Rome, plusieurs corpus ont été créés. 
 
-
 | id          | Description                                                                         |     Type AGORHA     | Commentaire                                                                                                                                                               | format | nom du fichier - Télécharger                                                                                     | détails la structure |
 |-------------|-------------------------------------------------------------------------------------|:-------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|------------------------------------------------------------------------------------------------------------------|:--------------------:|
 | dataset_1_0 | Ensemble des Envois de Rome (sculptures (1804-1914) et des peintures (1863-1914))   |       oeuvres       | il s'agit d'une extraction de la base de données d'AGORHA déjà nettoyée et enrichie (ajout des information de géolocalisation pour les lieux de conservation par exemple) |   CSV  | [Export_EnvoisdeRome_oeuvres_20190325.csv](./Export_EnvoisdeRome_oeuvres_20190325.csv)                           |  [voir](#dataset-n1) |
@@ -13,4 +12,6 @@ A partir de la base de données des Envois de Rome, plusieurs corpus ont été c
 | dataset_5   |                                                                                     |                     |                                                                                                                                                                           |        |                                                                                                                  |                      |
 | dataset_6   |                                                                                     |                     |                                                                                                                                                                           |        |                                                                                                                  |                      |
 | dataset_7   |                                                                                     |                     |                                                                                                                                                                           |        |                                                                                                                  |                      |
+
+
 ### dataset n°1
