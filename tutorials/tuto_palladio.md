@@ -56,7 +56,7 @@ Ce dernier mode d'exploration est le plus visuel. Il vous permet de construire a
 
 Pour construire ces cartesl, il suffit de paramétrer et de choisir les champs que vous souhaitez voir apparaître. Attention, pour les illustrations vous devez utilisez la colone URL_IMAGE tandis que pour le champ "LINK3 qui permet, au cliq sur la cartel d'être renvoyé à la notice complète d'AGORHA, il faut choisir "URL_AGORHA".
 
-![](../images/palladio_etape3.gif)
+![](../images/palladio_etape2.gif)
 
 #### Les filtres
 
@@ -65,9 +65,13 @@ La grande force de Palladio réside principalement dans l'utilisation de filtres
 3 type de filtres existent :
 
 * [Facet] : permet d'afficher les valeurs de vos différentes variables et de construire des filtres multiples. Exemple : on va pouvoir sélectionner uniquement les sculptures qui sont des envois de 2ème année et qui ont été copié d'après un antique
+
 ![img_1](../images/Palladio_09.png)
 
-* [Timeline] : 
+* [Timeline] : permet de visualiser et naviguer/sélectionner sur une timeline les vraiables selon des regroupement de votre choix.
+
+
+
 * [Timespan] : 
 
 
