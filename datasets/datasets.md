@@ -24,11 +24,13 @@ Il s'agit des des fichiers retravaillés et "prêt à l'emploi" des 3 corpus men
 
 Il s'agit de l'export brut de tous les champs de la base de données d'AGORHA, sans nettoyante, simplification ou enrichissement
 
-| id        | Description                                                                                               | date_extraction |     Type AGORHA     | format | nom du fichier - Télécharger                                                                                      |   Volumétrie  |
-|-----------|-----------------------------------------------------------------------------------------------------------|-----------------|:-------------------:|:------:|-------------------------------------------------------------------------------------------------------------------|:-------------:|
-| dataset_5 | Ensemble de toutes les notices des oeuvres publiées (sculptures (1804-1914) et des peintures (1863-1914)) | 20190325        |       oeuvres       |   CSV  | [Export_EnvoisdeRome_oeuvres_Brut_20190325.csv](./Export_EnvoisdeRome_oeuvres_Brut_20190325.csv)                  |  1100 oeuvres |
-| dataset_6 | Ensemble de toutes les notices mentions d'archives publiées                                               | 20190325        | mentions d'archives |   CSV  | [Export_EnvoisdeRome_Rapports_Brut_20190325.csv](./Export_EnvoisdeRome_Rapports_Brut_ 20190325)                   |  603 rapports |
-| dataset_7 | Ensemble de toutes les notices Personnes publiées                                                         | 20190325        |      Personnes      |   CSV  | [Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv](./Export_EnvoisdeRome_ToutesPersonnes_Brut_ 20190325.csv) | 378 personnes |
+| id        | Description                                                                                               | date_extraction |     Type AGORHA     | format | nom du fichier - Télécharger                                                                                     |   Volumétrie  |
+|-----------|-----------------------------------------------------------------------------------------------------------|-----------------|:-------------------:|:------:|------------------------------------------------------------------------------------------------------------------|:-------------:|
+| dataset_5 | Ensemble de toutes les notices des oeuvres publiées (sculptures (1804-1914) et des peintures (1863-1914)) | 20190325        |       oeuvres       |   CSV  | [Export_EnvoisdeRome_oeuvres_Brut_20190325.csv](./Export_EnvoisdeRome_oeuvres_Brut_20190325.csv)                 |  1100 oeuvres |
+| dataset_6 | Ensemble de toutes les notices mentions d'archives publiées                                               | 20190325        | mentions d'archives |   CSV  | [Export_EnvoisdeRome_Rapports_Brut_20190325.csv](./Export_EnvoisdeRome_Rapports_Brut_20190325.csv)               |  603 rapports |
+| dataset_7 | Ensemble de toutes les notices Personnes publiées                                                         | 20190325        |      Personnes      |   CSV  | [Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv](./Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv) | 378 personnes |
+
+
 
 ### La documentation précise des fichiers mis en téléchargement
 
