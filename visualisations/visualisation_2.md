@@ -1,11 +1,10 @@
 ## Visualisation n°2
 ### Prémices d'analyse textuelle à partir des rapports entourant les Envois de Rome
 
-L'objectif est ici d'utiliser les rapports transcrits comme un matérieux de recherche en lui-même et d'utiliser [**Voyant Tools**](http://voyant.tools.huma-num.fr) service web pour faciliter l'exploration de ce corpus en s'appuyant sur les logiques issue de la textométrie.
+L'objectif est ici d'utiliser les rapports transcrits comme un matériaux de recherche en lui-même et d'utiliser [**Voyant Tools**](http://voyant.tools.huma-num.fr) pour faciliter l'exploration de ce corpus en s'appuyant sur les logiques issues de la textométrie.
 
-> warning n°1 : il s'agit là d'une aide à l'exploration textuelle et non une méthode qui tendrait à remplacer une  lecture analytique plus fine.
+> Attention : l'outil est une aide à l'exploration textuelle utile pour analyser un nombre élévé de texte, sans ambition de remplacer la lecture exhaustive. Il est une introduction intéressante à une approche outillée de l'analyse de corpus.
 
-> warning n°2 : l'outil utilisé a des limites mais permet d'appréhender certains enjeux liés à ces pratiques empruntant notamment à des discipline avec le traitement automatique des langues.
 
 #### A propos de Voyant Tools
 Voyant Tools est un environnement d’analyse, de lecture et de visualisation de textes numériques.
