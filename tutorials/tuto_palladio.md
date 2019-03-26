@@ -32,10 +32,13 @@ Une fois les données importées,vous entrez dans l'interface et le menu en haut
 
 1. La carte
 
-
+L'accès par carte  permet de visualiser la répartition des Envois de Rome selon leurs lieux de conservation actuelles
 ![img_1](../images/Palladio_05.png)
 
 2. Le graphe
+
+Le graphe permet de choisir deux variables ("Source" et  "Target") et de visualiser les relations qu'elles entretiennent. Avec l’option « Size nodes », vous pouvez obtenir des tailles de noeuds proportionnels au nombre d’objets qu’ils représentent.
+Ci-dessous, nous avons choisis la colonne "AUTEUR" et la colonne "COPIER_dAPRES", et après avoir filtrer sur les, on peut visualiser la réponse à la question suivante : quel(s) sont les auteurs qui ont copié à la fois Michel-Ange et Pinturicchio ? On voit ainsi tout de suite apparâitre qu'il n'ya qu'un seul artiste à savoir Antoine Larée.
 
 ![img_1](../images/Palladio_02.png)
 
