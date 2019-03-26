@@ -14,6 +14,7 @@ Republic	of	Letters à	l’université	de	Stanford	en lien avec le laboratoire H
 
 **Accéder à l'application :** [http://palladio.designhumanities.org/#/](http://palladio.designhumanities.org/#/)
 
+
 #### 1er étape : importer les données
 
 Deux méthodes principales :
@@ -23,10 +24,14 @@ Deux méthodes principales :
 Pour la seconde, méthode, un petit *gif* pour plus d'information
 ![](../images/palladio_etape1.gif)
 
+Une fois les données importées,vous entrez dans l'interface et le menu en haut, vous permet d'accéder aux 4 modes d'exploration ainsu qu'une section "Data" qui contient sous forme de liste , l'ensemble de vos données.  Les type de données les plus courants sont suportés (texte, date, nombres, coordonnées géographiques, url) et seront nécessaire pour réaliser certaines visualisations. 
+
+> vous ne pourrez pas faire de carte si aucune colonne ne contient l'information de lattitude et de longitude. De même, pour créer un filtre chronologique, il faudra avoir dans les données, une colonne de type date.
 
 #### Les 4 formes d'exploration
 
 1. La carte
+
 
 ![img_1](../images/Palladio_05.png)
 
