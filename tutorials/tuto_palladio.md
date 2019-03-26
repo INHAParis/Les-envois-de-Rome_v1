@@ -12,7 +12,7 @@ Palladio est	une	plateforme de	visualisations	de	données	à	plusieurs	dimension
 biographiques,	lieux,	etc.).	Il	s’agit	d’un		outil	développé	initalement par	les	membres	du	projet	Mapping	the	
 Republic	of	Letters à	l’université	de	Stanford	en lien avec le laboratoire Humanities+Design.
 
-**Accéder à l'application :** http://palladio.designhumanities.org/#/
+**Accéder à l'application :** [http://palladio.designhumanities.org/#/](http://palladio.designhumanities.org/#/)
 
 #### 1er étape : importer les données
 
