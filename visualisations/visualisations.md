@@ -1,8 +1,14 @@
 ## Quelques idées d'exploitation
 
-L'objectif de cette section est de présenter quelques idées d'exploitation des différents corpus mis à diposition à partir de la base de données des Envois de Rome
+L'objectif de cette section est de présenter quelques idées d'exploitation des différents corpus mis à disposition à partir de la base de données des Envois de Rome
 
-* [Vue d'ensemble sur les corpus mise à disposition par la base de données](./visualisation_0.md)
-* [Qui a copié qui ?](./visualisation_1.md)
-* [Analyse textuelle à partir des rapports entourant les Envois de Rome](./visualisation_2.md)
-* [Cartographie des pensionnaires](./visualisation_3.md)
+* [Vue d'ensemble sur les corpus mis à disposition par la base de données](./visualisation_0.md)
+* Corpus des œuvres. Copies dessinées, peintes ou sculptées : [Qui a copié qui ?](./visualisation_1.md)
+* Corpus des textes. [Analyse textuelle à partir des rapports entourant les Envois de Rome](./visualisation_2.md)
+* Corpus des artistes. [Cartographie des pensionnaires](./visualisation_3.md)
+
+## D'autres idées à explorer 
+
+* le champs "EXPOSITIONS" de la base de données
+* visualiser les pensionnaires présents en même temps
+
