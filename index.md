@@ -1,19 +1,19 @@
 ## Contenu de la base
 
-La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">AGORHA</a> recense les travaux envoyés chaque année à Paris par les élèves de l’Académie de France à Rome, peintres et sculpteurs, pour la période 1804-1914. Ils sont mis en relation avec les transcriptions des rapports institutionnels (correspondance, procès-verbaux de l’Académie…), permettant de faire émerger des critères de jugement sur ces œuvres.
+La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">AGORHA</a> recense les travaux envoyés chaque année à Paris par les pensionnaires de l’Académie de France à Rome, peintres et sculpteurs, pour la période 1804-1914. Ils sont mis en relation avec les transcriptions des rapports institutionnels (rapports du directeur de l’Académie de France à Rome, rapports préliminaires rédigés par l’Institut…), permettant de faire émerger des critères de jugement sur ces œuvres.
 
-> Pour consulter la base sur AGORHA, [n"hésitez pas à lire le guide d'utilisation](./Guide_utilisation_EnvoisdeRome.pdf) avec les "trucs et astuces" utiles pour une utilisation experte 
+> Pour consulter la base sur AGORHA, [n"hésitez pas à télécaharger le guide d'utilisation](https://agorha.inha.fr/inhaprod/ark:/54721/00180/doc/562829) avec les "trucs et astuces" utiles pour une utilisation experte.
 
 
 ## Contenu de ce répertoire
 
 Pour rendre compte de la recherche actuelle sur les Envois de Rome, un appel à communication pour le colloque **« Académisme et formation artistique au XIXe siècle : les envois de Rome en question »** <a href="https://www.inha.fr/fr/recherche/appels/appels-a-contributions/academisme-et-formation-artistique-au-xixe-siecle.html">a été publié sur le site de l'INHA</a>.
 
-Dans ce cadre, afin de valoriser le contenu de la base de données et de pouvoir accéder à la consultation de la base, nous rendons ici accessible un **ensemble de ressources (des jeux de données pré-traités, des tutoriels, des exemples de visualisations , etc.)** librement téléchargeable.
+Dans ce cadre, afin de valoriser le contenu de la base de données au-delà de l'interface d'AGORHA, nous rendons ici accessible un **ensemble de ressources (des jeux de données pré-traités, des tutoriels, des exemples de visualisations , etc.)** librement téléchargeables.
 
 ![img_1](./images/accueil.png)
 
-L'INHA, par cette mise en ligne sous différentes formes, souhaite également expérimenter la réutilisation des données en histoire de l'art en proposant à ceux qui le souhaitent un accompagnement personnalisé, afin d'aider les soumissionnaires à construire et à formaliser leurs questions à partir des jeux de données.
+L'INHA, par cette mise en ligne sous différentes formes, souhaite également expérimenter la réutilisation des données en histoire de l'art en proposant à ceux qui le souhaitent un accompagnement personnalisé, afin d'aider les chercheurs à construire et à formaliser leurs questions à partir des jeux de données.
 
 > Pour toute question, n'hésitez pas à nous contacter à l'adresse suivante : **envoisderome@inha.fr**
 
@@ -60,7 +60,7 @@ Online and Open Source.
 L'ensemble des données mises à disposition  ainsi que les différentes visualisations et tutoriels sont placés sous [licence Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 Dans ce cadre, l’utilisateur est autorisé :
-* à reproduire et à rediffuser ces données, sous réserve de conserver la mention exacte de la source :
+* à reproduire et à rediffuser ces données, sous réserve de conserver la mention exacte de la source : Les Envois de Rome en peinture et sculpture, 1804-1914, en partenariat avec l'Institut national d'histoire de l'art, l'Académie de France à Rome - Villa Médidis et l'Académie des beaux-arts de l'Institut de France
 * à retraiter, à inclure ou à exploiter ces contenus et données, sous réserve de ne pas en dénaturer le sens ni l’exactitude et de ne pas induire en erreur des tiers quant au contenu ou à la source de ces informations ;
 pour le monde entier et sans limitation de durée ;
 * à des fins commerciales ou non.
