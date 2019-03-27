@@ -68,11 +68,11 @@ La grande force de Palladio réside principalement dans l'utilisation de filtres
 
 ![img_1](../images/Palladio_09.png)
 
-* [Timeline] : permet de visualiser et naviguer/sélectionner sur une timeline les variable selon des regroupement de votre choix.
+* [Timeline] : permet de visualiser et naviguer/sélectionner sur une timeline les variables selon des regroupement de votre choix.
 
 ![](../images/palladio_etape4.gif)
 
-* [Timespan] : tout comme la timeline, ce filtre a l'avantage de visualiser une période temporelle. Dans l'exemple ci-dessous, il s'agit de visualiser la période entre la date de création de l'oeuvre et la date de l'envoi de l'œuvre. On peut ainsi tout de suite voir des cas sortant de l'ordinaire comme [l'œuvre de Pierre Cavelier intitulée Pénélope](https://agorha.inha.fr/inhaprod/ark:/54721/003260289) (7 ans entre la date de création et la date de l'envoi).
+* [Timespan] : tout comme la timeline, ce filtre a l'avantage de permettre de visualiser une période temporelle. Dans l'exemple ci-dessous, il s'agit de visualiser la période entre la date de création de l'oeuvre et la date de l'envoi de l'œuvre. On peut ainsi tout de suite voir des cas sortant de l'ordinaire comme [l'œuvre de Pierre Cavelier intitulée Pénélope](https://agorha.inha.fr/inhaprod/ark:/54721/003260289) (7 ans entre la date de création et la date de l'envoi).
 
 ![img_1](../images/Palladio_10.png)
 
