@@ -1,10 +1,6 @@
 ## Visualisation
 
-### Vue d’ensemble sur les corpus mise à disposition par la base de données
-
-#### Nombre d'envois selon le type, le nombre d'auteurs, etc.
-
-
+### Vue d’ensemble sur les corpus mis à disposition par la base de données
 
 
 
