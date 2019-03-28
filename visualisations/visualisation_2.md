@@ -25,10 +25,4 @@ Quelques pistes explorées restant bien sûr à approfondir :
 
 ##### Le contexte d'utilisation du terme "moderne"
 
-##### "dans le goût" VS "à la manière de" et environnement sémantique
-
-sévère
-
-
-
 ![img_1](../images/voyanttools_1.png)
