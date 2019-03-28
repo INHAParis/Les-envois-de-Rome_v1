@@ -7,7 +7,7 @@ L'objectif de cette section est de présenter quelques idées d'exploitation des
 * Corpus des textes : [Analyse textuelle à partir des rapports entourant les Envois de Rome](./visualisation_2.md)
 * Corpus des artistes : [Cartographie des lieux de naissance des pensionnaires](./visualisation_3.md)
 * Corpus des artistes : [Fréquentations à la Villa](./visualisation_4.md)
-* Enrichir wikipedia/wikidata : [Fréquentations à la Villa](./visualisation_4.md)
+* Corpus des artistes : [Enrichir wikipedia/wikidata](./reutilisation_1.md)
 
 ## D'autres idées à explorer 
 
