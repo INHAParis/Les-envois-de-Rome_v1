@@ -28,12 +28,28 @@ Chaque module possède dans son angle en haut à droite, un lot d'icône qui s'a
 
 ![](../images/voyanttools_etape1.gif)
 
+Dans les actions et les options de bases qui se retrouvent dans la plupart des modules, il faut en noter trois principales :
+
+* la recherche de mots
+![](../images/voyanttools_4.png)
+
+* la sélection de l'ensemble du corpus ou uniquement certains rapports
+![](../images/VoyantTools_7.png)
+
+* l'exclusion de mots-vide, paramétrage des **stopwords**
+
+
 #### Quelques exemples d'utilisation
 
-##### L'outil "Correlation"
+##### Le module "Correlation"
 
 Il vous permet d'afficher après un choix de termes de votre choix, sous forme de liste, toutes les réponses mais dans leurs contextes du document, c'est-à-dire en vous affichant directement les quelques mots avant et après. 
 Par exemple, en cherchant "blâm*", vous verrez d'une part, toutes les variantes (blâme, blâmera, blâmant, blâmable, etc.), mais également sous une forme abrgée, le contexte du mot et dans quel document il s'agit. De plus, si vous cliquez sur une des lignes, le module "Lecteur" juste au-dessus se met à jour et vous permet d'accéder à l'ensemble du rapport.
 
-![](../images//voyanttools_4.png) ![](../images//voyanttools_5.png)
+ ![](../images//voyanttools_5.png)
 
+##### Le module "Terme du document"
+
+Proche du module précédent d'autant qu'il peut être connecté au module "Corrélation", ce module permet, après avoir choisit différents termes d'avoir n'information du nombre d'occurence par document
+
+ ![](../images/VoyantTools_6.png)
