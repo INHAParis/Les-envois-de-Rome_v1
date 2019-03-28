@@ -25,4 +25,15 @@ L'interface s'ouvre avec 5 modules par défaut dont un le lecteur qui affiche l'
 ![](../images/voyanttools_02.png)
 
 Chaque module possède dans son angle en haut à droite, un lot d'icône qui s'affiche au survol. A ce niveau, vous pouvez soit ajuster le module actuel par différentes options, soit réaliser un export de la visualisation soit choisir un autre module selon vos besoins.
+
 ![](../images/voyanttools_etape1.gif)
+
+#### Quelques exemples d'utilisation
+
+##### L'outil "Correlation"
+
+Il vous permet d'afficher après un choix de termes de votre choix, sous forme de liste, toutes les réponses mais dans leurs contextes du document, c'est-à-dire en vous affichant directement les quelques mots avant et après. 
+Par exemple, en cherchant "blâm*", vous verrez d'une part, toutes les variantes (blâme, blâmera, blâmant, blâmable, etc.), mais également sous une forme abrgée, le contexte du mot et dans quel document il s'agit. De plus, si vous cliquez sur une des lignes, le module "Lecteur" juste au-dessus se met à jour et vous permet d'accéder à l'ensemble du rapport.
+
+![](../images//voyanttools_4.png) ![](../images//voyanttools_5.png)
+
