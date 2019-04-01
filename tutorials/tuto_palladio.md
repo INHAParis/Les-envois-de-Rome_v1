@@ -24,6 +24,7 @@ Deux méthodes principales :
 Les deux fixhiers sont à télécharger dans ce fichier zip [à télécharger ici](../datasets/export_Palladio.zip))
 
 Procédure d'import en *gif* :
+
 ![](../images/palladio_etape1.gif)
 
 Une fois les données importées, vous entrez dans l'interface et le menu en haut vous permet d'accéder aux 4 modes d'exploration ainsi qu'à une section "Data" qui contient sous forme de liste l'ensemble des données importées. Les types de données les plus courants sont pris en compte (texte, date, nombres, coordonnées géographiques, url) et seront nécessaires pour réaliser certaines visualisations.
