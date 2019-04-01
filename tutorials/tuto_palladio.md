@@ -19,7 +19,9 @@ Republic	of	Letters à	l’université	de	Stanford	en lien avec le laboratoire H
 
 Deux méthodes principales :
 * soit en important le jeu de données intial en CSV ([à télécharger ici](../datasets/Export_EnvoisdeRome_oeuvres_20190325.csv))
-* soit en important le jeu de données déjà pré-paramétré pour l'utilisation avec Palladio ([à télécharger ici](../datasets/Export_EnvoisdeRome_oeuvres_forPalladio_20190325.json))
+* soit en important le jeu de données déjà pré-paramétré pour l'utilisation avec Palladio 
+
+Les deux fixhiers sont à télécharger dans ce fichier zip [à télécharger ici](../datasets/export_Palladio.zip))
 
 Procédure d'import en *gif* :
 ![](../images/palladio_etape1.gif)
