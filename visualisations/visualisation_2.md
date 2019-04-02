@@ -16,7 +16,7 @@ Voyant Tools est un environnement d’analyse, de lecture et de visualisation de
 
 Sur les 603 rapports issus de la base de données, nous avons sélectionné les 521 rapports ayant une transcription.
 Deux modes d'accès :
-* le corpus sous forme d'un tableau : Le jeux de données initial est [à télécharger ici](./datasets/datasets.md).
+* le corpus sous forme d'un tableau : Le jeux de données initial est [à télécharger ici](./datasets/Export_EnvoisdeRome_Rapports_20190325.csv).
 * Accéder directement au corpus pré-paramétré dans [le projet voyant-tool](http://voyant.tools.huma-num.fr/?corpus=9f0929de55123b653c9475a6be733db4)
 
 #### Les premiers réusltats
