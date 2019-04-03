@@ -17,6 +17,10 @@ L'INHA, par cette mise en ligne sous différentes formes, souhaite également ex
 
 > Pour toute question, n'hésitez pas à nous contacter à l'adresse suivante : **envoisderome@inha.fr**
 
+Ce répertoire ainsi que la base de données ont été présentés lors d'un atelier à l'INHA le 28 mars 2019
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgwUTBwyyDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Les données
 
 Vous trouverez sur cette page différents jeux de données (œuvres, artistes, etc.) issus de la base de données sous AGORHA, sous différents formats.
