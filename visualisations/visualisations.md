@@ -9,6 +9,7 @@ L'objectif de cette section est de présenter quelques idées d'exploitation des
 * Corpus des artistes : [Fréquentations à la Villa](./visualisation_4.md)
 * Corpus des artistes : [Enrichir wikipedia/wikidata](./reutilisation_1.md)
 * Corpus des œuvres : [Créer un bot twitter](./reutilisation_02.md)
+* Corpus des œuvres : [Les envois par images](./visualisation_5.md)
 
 ## D'autres idées à explorer
 
