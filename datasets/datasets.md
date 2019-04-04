@@ -27,7 +27,7 @@ Il s'agit de l'export brut de tous les champs de la base de données d'AGORHA, s
 |-----------|-----------------------------------------------------------------------------------------------------------|-----------------|:-------------------:|:------:|------------------------------------------------------------------------------------------------------------------|:-------------:|
 | dataset_5 | Ensemble de toutes les notices des œuvres publiées (sculptures (1804-1914) et des peintures (1863-1914)) | 20190325        |       oeuvres       |   CSV  | [Exports_EnvoisdeRome_oeuvres_Brut_20190325.csv](./Exports_EnvoisdeRome_oeuvres_Brut_20190325.csv)               |  1100 oeuvres |
 | dataset_6 | Ensemble de toutes les notices mentions d'archives publiées                                               | 20190325        | mentions d'archives |   CSV  | [Export_EnvoisdeRome_Rapports_Brut_20190325.csv](./Export_EnvoisdeRome_Rapports_Brut_20190325.csv)               |  599 rapports |
-| dataset_7 | Ensemble de toutes les notices Personnes publiées                                                         | 20190325        |      Personnes      |   CSV  | [Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv](./Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.csv) | 378 personnes |
+| dataset_7 | Ensemble de toutes les notices Personnes publiées                                                         | 20190325        |      Personnes      |   CSV  | [Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.xls](./Export_EnvoisdeRome_ToutesPersonnes_Brut_20190325.xls) | 378 personnes |
 
 ### La documentation précise des fichiers mis en téléchargement
 
