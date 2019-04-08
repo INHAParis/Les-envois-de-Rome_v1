@@ -45,7 +45,7 @@ Vous trouverez sur cette page quelques exemples de visualisations réalisées à
 * [Manuel en ligne avec des rappels historiques, des exemples, etc.](https://datavizforall.org/)
 * pour vous aider à trouver la forme de visualisation la plus adaptée (en fonction des outils, de vos données, de vos questions, etc.)
   * [datavizproject](http://datavizproject.com)
-  * [chartmaker](chartmaker.visualisingdata.com)
+  * [chartmaker](http://chartmaker.visualisingdata.com)
 * des outils en ligne pour visualiser/explorer des corpus de données
   * [Palladio](http://palladio.designhumanities.org) : Palladio. Visualize complex historical data with ease.
   * [Vistorian](https://networkcube.github.io/vistorian/) : Interactive Visualizations for Dynamic and Multivariate Networks. 
