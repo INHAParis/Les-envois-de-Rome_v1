@@ -15,7 +15,7 @@ Deux modes d'accès :
 
 #### 1ère étape : Importer les données
 
-* Le jeu de données initial est [à télécharger ici](./datasets/Export_EnvoisdeRome_Rapports_Brut_20190325.csv) sous format CSV
+* Le jeu de données initial est [à télécharger ici](../datasets/Export_EnvoisdeRome_Rapports_Brut_20190325.csv) sous format CSV
 * Accéder directement au corpus pré-paramétré dans [le projet Voyant-Tools](http://voyant.tools.huma-num.fr/?corpus=9f0929de55123b653c9475a6be733db4)
 
 #### 2ème étape : Accès à l'interface
