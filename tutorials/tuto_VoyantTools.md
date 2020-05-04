@@ -16,7 +16,9 @@ Deux modes d'accès :
 #### 1ère étape : Importer les données
 
 * Le jeu de données initial est [à télécharger ici](../datasets/Export_EnvoisdeRome_Rapports_Brut_20190325.csv) sous format CSV
-* Accéder directement au corpus pré-paramétré dans [le projet Voyant-Tools](http://voyant.tools.huma-num.fr/?corpus=c5a9f583852ffa9cc4e9fddbcb7d59f4)
+* Accéder directement au corpus pré-paramétré dans [le projet Voyant-Tools](https://voyant-tools.org/?corpus=44e4d709350ebf4a952700ef110e3009)(**MAJ 2020 : le projet VoyantTools contient désormais toutes les mentions d'archives relatives à la fois aux sculptures et aux peintures**)
+
+
 
 #### 2ème étape : Accès à l'interface
 
