@@ -60,20 +60,20 @@ Online and Open Source.
 
 ## Equipe
 * Responsables
- * Servane Dargnies (2015-2019) - Olivier Bonfait
- * Chantal Georgel, conseillère scientifique (2008-2017)
- * Ariane James-Sarazin, conseillère scientifique (2017-2018)
- * France Lechleiter, cheffe de projet (2016-2019)
+   * Servane Dargnies (2015-2019) - Olivier Bonfait
+   * Chantal Georgel, conseillère scientifique (2008-2017)
+   * Ariane James-Sarazin, conseillère scientifique (2017-2018)
+   * France Lechleiter, cheffe de projet (2016-2019)
 * Equipe
- * Érica Champeau, stagiaire (2018)
- * Clara Delannoy, stagiaire (2017)
- * Justine Gain, stagiaire puis chargée d'études et de recherche (2019)
- * Noémie Picard, stagiaire (2018)
- * Josette Saint-Martin, stagiaire (2017)
+   * Érica Champeau, stagiaire (2018)
+   * Clara Delannoy, stagiaire (2017)
+   * Justine Gain, stagiaire puis chargée d'études et de recherche (2019)
+   * Noémie Picard, stagiaire (2018)
+   * Josette Saint-Martin, stagiaire (2017)
 * Partenaires scientifiques :
- * Francesca Alberti, chargée de mission pour l’histoire de l’art à l'Académie de France à Rome - Villa Médicis (2019-)
- * Olivier Bonfait, professeur d'histoire de l'art moderne à l'Université de Bourgogne
- * Jérôme Delaplanche, chargé de mission pour l'histoire de l'art à l'Académie de France à Rome - Villa Médicis (2015-2018), Centre des Monuments nationaux (2018-)
+   * Francesca Alberti, chargée de mission pour l’histoire de l’art à l'Académie de France à Rome - Villa Médicis (2019-)
+   * Olivier Bonfait, professeur d'histoire de l'art moderne à l'Université de Bourgogne
+   * Jérôme Delaplanche, chargé de mission pour l'histoire de l'art à l'Académie de France à Rome - Villa Médicis (2015-2018), Centre des Monuments nationaux (2018-)
 * Équipe initiale (2002-2004) :
   * Sous la direction d'Olivier Bonfait, alors chargé de mission pour l'histoire de l'art à l'Académie de France à Rome - Villa Médicis : Florence Colin, Christiane Dotal, France Lechleiter, Isabelle Loddé, Hélène Marraud, Laurent Noet, Guillaume Peigné, Delphine Regalasti-Multon, Pierre Sérié, Anne-Blanche Stévenin
 
