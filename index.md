@@ -2,7 +2,7 @@
 
 La base publiée sur <a href="https://agorha.inha.fr/inhaprod/ark:/54721/00180">AGORHA</a> recense les travaux envoyés chaque année à Paris par les pensionnaires de l’Académie de France à Rome, peintres et sculpteurs, pour la période 1804-1914. Ils sont mis en relation avec les transcriptions des rapports institutionnels (rapports du directeur de l’Académie de France à Rome, rapports préliminaires rédigés par l’Institut…), permettant de faire émerger des critères de jugement sur ces œuvres.
 
-> Pour consulter la base sur AGORHA, [n"hésitez pas à télécharger le guide d'utilisation](https://agorha.inha.fr/inhaprod/ark:/54721/00180/doc/562829) avec les "trucs et astuces" utiles pour une utilisation experte.
+> Pour consulter la base sur AGORHA, [n"hésitez pas à télécharger le vademecum de la base](https://github.com/INHAParis/Les-envois-de-Rome_v1/blob/master/Vade_mecum_Envois_de_Rome.pdf) ainsi que le [manuel d'utilisation](https://github.com/INHAParis/Les-envois-de-Rome_v1/blob/master/Guide_utilisation_EnvoisdeRome.pdf) avec les "trucs et astuces" utiles pour une utilisation experte.
 
 
 ## Contenu de ce répertoire
