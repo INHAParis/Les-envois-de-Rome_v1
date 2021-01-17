@@ -84,8 +84,8 @@ Online and Open Source.
   * Antoine Courtin, chef du service numérique de la recherche (2015-)
 
 ### Partenaires
-[Institut national d’histoire de l’art (INHA)](https://www.inha.fr/)
-[Académie de France à Rome - Villa Médicis](https://www.villamedici.it/fr/)
+[Institut national d’histoire de l’art (INHA)](https://www.inha.fr/)  |  
+[Académie de France à Rome - Villa Médicis](https://www.villamedici.it/fr/)  |  
 [Institut de France - Académie des beaux-arts](https://www.academiedesbeauxarts.fr/accueil)
 
 
