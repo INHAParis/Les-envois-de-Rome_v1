@@ -97,3 +97,6 @@ Dans ce cadre, l’utilisateur est autorisé :
 * à retraiter, à inclure ou à exploiter ces contenus et données, sous réserve de ne pas en dénaturer le sens ni l’exactitude et de ne pas induire en erreur des tiers quant au contenu ou à la source de ces informations ;
 pour le monde entier et sans limitation de durée ;
 * à des fins commerciales ou non.
+
+### Remerciements
+Nous tenons à chaleureusement remercier pour leur relecture attentive et critique les étudiants en humanités numériques de l'université de Genève, Matteo Colombo, Diana Ruíz et Christophe Bitar, qui ont réalisé une évaluation de ce site (nov. 2020) dans le cadre de l'introduction aux DH enseignée par la Prof. Béatrice Joyeux-Prunel.
