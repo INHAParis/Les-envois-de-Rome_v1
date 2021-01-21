@@ -85,7 +85,7 @@ Online and Open Source.
   
 ## Historique de la base de données
 
-![img_1](../images/procedure_ingenieriedoc.png)
+![img_1](/images/procedure_ingenieriedoc.png)
 
 
 ## Partenaires
