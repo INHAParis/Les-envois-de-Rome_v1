@@ -27,7 +27,7 @@
 > Liste de 13 sculptures d'envois de Rome de 5ème année dont la localisation est inconnue ! 
 > Pour nous envoyer des informations : :email: [agorha@inha.fr](:email:)
 
-| NUM_NOTICE 	| TITRES 1 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| COMM_HIST 	|
+| NUM_NOTICE + Lien vers AGORHA	| TITRES 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| COMM_HIST 	|
 |-	|-	|-	|-	|-	|
 | [260019](https://agorha.inha.fr/inhaprod/ark:/54721/003260019) 	| Un pugilateur 	| Auguste, Jules Robert 	| 1812 	| Envoi réglementaire de 5e année exécuté en 4e année. Exécuté entre 1812 et 1814. Non envoyé à Paris en 1813 et 1814 par l'Académie de France faute de moyens d'expédition pour l'ensemble des envois de sculpture. Cité également dans l'État des envois de sculpture de 1814. 	|
 | [260176](https://agorha.inha.fr/inhaprod/ark:/54721/003260176) 	| La Modestie 	| Bonnassieux, Jean-Marie 	| 1841 	| Envoi réglementaire de 5e année (non cité dans l'État des envois de sculpture de 1842). Exposé à Rome en avril 1842, expédié à Paris le 20 juillet suivant pour l'époque de l'exposition des envois à l'École des beaux-arts (exposé). Exposé au Salon de 1844. 	|
