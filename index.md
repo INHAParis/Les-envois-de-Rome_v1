@@ -82,14 +82,19 @@ Online and Open Source.
 * Base de données : 
   * Pierre-Yves Laborde, chargé de ressources documentaires et numériques (2010-)
   * Antoine Courtin, chef du service numérique de la recherche (2015-)
+  
+## Historique de la base de données
 
-### Partenaires
+![img_1](/images/procedure_ingenieriedoc.png)
+
+
+## Partenaires
 [Institut national d’histoire de l’art (INHA)](https://www.inha.fr/)  |  
 [Académie de France à Rome - Villa Médicis](https://www.villamedici.it/fr/)  |  
 [Institut de France - Académie des beaux-arts](https://www.academiedesbeauxarts.fr/accueil)
 
 
-### Licence
+## Licence
 L'ensemble des données mises à disposition  ainsi que les différentes visualisations et tutoriels sont placés sous [licence Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
 Dans ce cadre, l’utilisateur est autorisé :
@@ -98,5 +103,7 @@ Dans ce cadre, l’utilisateur est autorisé :
 pour le monde entier et sans limitation de durée ;
 * à des fins commerciales ou non.
 
-### Remerciements
+## Remerciements
 Nous tenons à chaleureusement remercier pour leur relecture attentive et critique les étudiants en humanités numériques de l'université de Genève, Matteo Colombo, Diana Ruíz et Christophe Bitar, qui ont réalisé une évaluation de ce site (nov. 2020) dans le cadre de l'introduction aux DH enseignée par la Prof. Béatrice Joyeux-Prunel.
+
+
