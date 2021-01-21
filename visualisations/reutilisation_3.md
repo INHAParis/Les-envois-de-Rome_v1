@@ -3,7 +3,8 @@
 > Liste de 13 peintures d'envois de Rome de 5ème année dont la localisation est inconnue ! 
 > Pour nous envoyer des informations : :email: [agorha@inha.fr](:email:)
 
-| NUM_NOTICE 	| TITRES 1 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| COMM_HIST 	|
+
+| NUM_NOTICE + Lien vers AGORHA 	| TITRE 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| COMM_HIST 	|
 |-	|-	|-	|-	|-	|
 | [260139](https://agorha.inha.fr/inhaprod/ark:/54721/003260139) 	| Jésus apparaissant à Marie-Madeleine 	| Blanchard, Charles-Octave 	| 1840 	| Envoi réglementaire de 5e année exécuté en 4e année en raison de la réduction du temps de pension de l'artiste. Exposé à Rome en avril 1841, expédié à Paris le 3 juin suivant pour l'exposition des envois à l?École des beaux-arts (exposé). Exposé au Salon de 1842. 	|
 | [260332](https://agorha.inha.fr/inhaprod/ark:/54721/003260332) 	| Zénobie 	| Chifflart, Nicolas François 	| 1856 	| Envoi réglementaire de 5e année. Exposé à Rome en avril, expédié à Paris le 23 juin 1857 pour l'exposition des envois à l?École des beaux-arts (exposé). 	|
