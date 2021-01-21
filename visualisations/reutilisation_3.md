@@ -1,9 +1,7 @@
 ## Sherlock Holmes et les envois de Rome
 
 > 292 envois de Rome (peinture) dont la localisation est encore inconnue
-
-:email:
-[agorha@inha.fr](:email:)
+> Pour nous envoyer des informations : :email: [agorha@inha.fr](:email:)
 
 | NUM_NOTICE 	| URL 	| TYPE_OEUVRE 1 	| PRECISION_TYPE_OEUVRE 	| TITRES 1 	| COMMENTAIRE_GENERAL 	| LIEU_DE_CONSERVATION 	| COMMENTAIRE_DESCRIPTIF 	| MATIERES_ET_TECHNIQUES 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| TYPE_ENVOI 	| EVENEMENTS 	| COMM_HIST 	|
 |-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|
