@@ -2,6 +2,9 @@
 
 > 292 envois de Rome (peinture) dont la localisation est encore inconnue
 
+:email:
+[agorha@inha.fr](:email:)
+
 | NUM_NOTICE 	| URL 	| TYPE_OEUVRE 1 	| PRECISION_TYPE_OEUVRE 	| TITRES 1 	| COMMENTAIRE_GENERAL 	| LIEU_DE_CONSERVATION 	| COMMENTAIRE_DESCRIPTIF 	| MATIERES_ET_TECHNIQUES 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| TYPE_ENVOI 	| EVENEMENTS 	| COMM_HIST 	|
 |-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|-	|
 | 260018 	| https://agorha.inha.fr/inhaprod/ark:/54721/003260018 	| peinture 	|  	| Après-Midi 	| envoi 4e année 	| Localisation inconnue 	| 2e 1er grand Prix de 1907, Aubry n'a obtenu qu'une année de pension. Il n'exécutera que l'envoi de 4e année. 	| toile 	| Aubry, Émile 	| 1908 	| envoi réglementaire 	| 1909, mai, du 15 au 23, Rome, Villa Médicis ; 1909, juillet, du 3 au 10, Paris, École des beaux-arts ; 1910, Paris, Salon de la Société des Artistes Français, n° 69 ; 1998, Auxerre, Hôtel des ventes, n° 129 	| Exposé achevé à la Villa Médicis au courant du mois de mai 1909 et à l'École des beaux-arts au début du mois de juillet. Exposé au Salon des Artistes Français de 1910 où l'envoi remporte une médaille de 3e classe. Malgré les recommandations de l'Académie des beaux-arts et du directeur de la Villa Médicis, le tableau ne sera pas acheté par l'administration des beaux-arts. Passé en vente à Auxerre en 1998. 	|
