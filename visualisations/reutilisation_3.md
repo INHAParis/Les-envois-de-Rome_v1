@@ -5,6 +5,7 @@
 > Liste de 13 peintures d'envois de Rome de 5ème année dont la localisation est inconnue ! 
 > Pour nous envoyer des informations : :email: [agorha@inha.fr](:email:)
 
+Les éventuelles découvertes (colonnes "Résultats") seront ensuite vérifiées, consolidées par les équipes scientifiques et intégrées, le cas échéant dans la base de données.
 
 | NUM_NOTICE + Lien vers AGORHA 	| TITRE 	| PERSONNES_ETUDIEES 	| DATE_CREATION 	| COMM_HIST 	| résultat |
 |-	|-	|-	|-	|-	|-	|
